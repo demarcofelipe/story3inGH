@@ -1,2 +1,1 @@
-this is a story written in GitHub.. from SMA
-A VERY GOOD ONE!
+hello
